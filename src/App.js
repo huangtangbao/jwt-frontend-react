@@ -11,7 +11,7 @@ function App() {
   return (
     <Router>
       <div className='app-contaiter'>
-        {/* <Nav /> */}
+        <Nav />
         <Switch>
           <Route path="/news">
             news
